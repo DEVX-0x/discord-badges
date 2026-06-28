@@ -56,12 +56,12 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 | Title                              | Badge                                                                                                                  | Earned by                                                                                                                |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Patron | <img  src="/assets/gifting/patron.png" href="https://cdn.discordapp.com/badge-icons/ac305d1b9481f312ce4419e7f8296558.png"> | Send ( 1 ) gift to anyone from Shop or Wishlist in user profile |
-| Champion | <img  src="/assets/gifting/champion.png" href="https://cdn.discordapp.com/badge-icons/8b7792c4f65953d3ff564f23429cb79e.png"> | Send ( 2 ) gift to anyone from Shop or Wishlist in user profile |
-| Luminary | <img  src="/assets/gifting/luminary.png" href="https://cdn.discordapp.com/badge-icons/3119f5504b2cd09576a323908c7c3517.png"> | Send ( 3 ) gift to anyone from Shop or Wishlist in user profile |
-| Icon | <img src="/assets/gifting/icon.png" href="https://cdn.discordapp.com/badge-icons/64f2413c9b9803661322aaad25826b62.png"> | Send ( 6 ) gift to anyone from Shop or Wishlist in user profile |
-| Hero | <img src="/assets/gifting/hero.png" href="https://cdn.discordapp.com/badge-icons/77d65b1f210014a11eb1582ee06ab684.png"> | Send ( 10 ) gift to anyone from Shop or Wishlist in user profile |
-| Legend | <img src="/assets/gifting/legend.png" href="https://cdn.discordapp.com/badge-icons/7fe346cfc5da1340087d8759a9e7a395.png"> | Send ( 20 ) gift to anyone from Shop or Wishlist in user profile |
+| Patron | <img  src="/assets/gifting/patron.png" href="https://cdn.discordapp.com/badge-icons/ac305d1b9481f312ce4419e7f8296558.png"> | Send 1 gift to anyone from the Shop or Wishlist in their user profile |
+| Champion | <img  src="/assets/gifting/champion.png" href="https://cdn.discordapp.com/badge-icons/8b7792c4f65953d3ff564f23429cb79e.png"> | Send 2 gifts to anyone from the Shop or Wishlist in their user profile |
+| Luminary | <img  src="/assets/gifting/luminary.png" href="https://cdn.discordapp.com/badge-icons/3119f5504b2cd09576a323908c7c3517.png"> | Send 3 gifts to anyone from the Shop or Wishlist in their user profile |
+| Icon | <img src="/assets/gifting/icon.png" href="https://cdn.discordapp.com/badge-icons/64f2413c9b9803661322aaad25826b62.png"> | Send 6 gifts to anyone from the Shop or Wishlist in their user profile |
+| Hero | <img src="/assets/gifting/hero.png" href="https://cdn.discordapp.com/badge-icons/77d65b1f210014a11eb1582ee06ab684.png"> | Send 10 gifts to anyone from the Shop or Wishlist in their user profile |
+| Legend | <img src="/assets/gifting/legend.png" href="https://cdn.discordapp.com/badge-icons/7fe346cfc5da1340087d8759a9e7a395.png"> | Send 20 gifts to anyone from the Shop or Wishlist in their user profile |
 
 ## Nitro Subscription Tiers  
 
