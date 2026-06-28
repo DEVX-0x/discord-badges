@@ -8,9 +8,9 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 - [Discord Badges 🏆](#discord-badges-)
   - [Table of Contents](#table-of-contents)
-  - [General Badges](#general-badges)
-  - [Gifting Badges](#gifting-badges)
+  - [General Badges](#general-badges)  
   - [Bot Badges](#bot-badges)
+  - [Gifting Badges](#gifting-badges)
   - [Nitro Subscription Tiers](#nitro-subscription-tiers)
   - [Nitro Boost Tiers](#nitro-boost-tiers)
 - [Server Badges](#server-badges)
@@ -44,18 +44,6 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 \*\* The testers program is currently only available for a select group of people
 
-## Gifting Badges
-
-| Title                              | Badge                                                                                                                  | Earned by                                                                                                                |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Patron | <img  src="/assets/gifting/Patron.png"> | Send ( 1 ) gift to anyone from Shop or Wishlist in user profile |
-| Champion | <img  src="/assets/gifting/Champion.png"> | Send ( 2 ) gift to anyone from Shop or Wishlist in user profile |
-| Luminary | <img  src="/assets/gifting/Luminary.png"> | Send ( 3 ) gift to anyone from Shop or Wishlist in user profile |
-| Icon | <img src="/assets/gifting/Icon.png"> | Send ( 6 ) gift to anyone from Shop or Wishlist in user profile |
-| Hero | <img src="/assets/gifting/Hero.png"> | Send ( 10 ) gift to anyone from Shop or Wishlist in user profile |
-| Legend | <img src="/assets/gifting/Legend.png"> | Send ( 20 ) gift to anyone from Shop or Wishlist in user profile |
-
-
 ## Bot Badges
 
 | Title                              | Badge                                                                                                                  | Obtainable? | Earned by                                                                                                                | Flag            |
@@ -63,6 +51,17 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 | Supports Commands                  | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg">       | ✅          | Bot must use [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) to earn this badge. | 524288 (2^19)  |
 | Uses Automod                       | <img  src="/assets/automod.svg" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg">                | ✅          | 100 active automod rules created.                                                                                        | 16777216 (2^24) |
 | This server has _App Name_ premium | <img  src="/assets/premiumbot.png" href="https://cdn.discordapp.com/badge-icons/d2010c413a8da2208b7e4f35bd8cd4ac.png"> | ✅          | Given to premium APPS on the server that bought premium using discords in-app purchase option.                           | (Unknown)       |
+
+## Gifting Badges
+
+| Title                              | Badge                                                                                                                  | Earned by                                                                                                                |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Patron | <img  src="/assets/gifting/patron.png" href="https://cdn.discordapp.com/badge-icons/ac305d1b9481f312ce4419e7f8296558.png"> | Send ( 1 ) gift to anyone from Shop or Wishlist in user profile |
+| Champion | <img  src="/assets/gifting/champion.png" href="https://cdn.discordapp.com/badge-icons/8b7792c4f65953d3ff564f23429cb79e.png"> | Send ( 2 ) gift to anyone from Shop or Wishlist in user profile |
+| Luminary | <img  src="/assets/gifting/luminary.png" href="https://cdn.discordapp.com/badge-icons/3119f5504b2cd09576a323908c7c3517.png"> | Send ( 3 ) gift to anyone from Shop or Wishlist in user profile |
+| Icon | <img src="/assets/gifting/icon.png" href="https://cdn.discordapp.com/badge-icons/64f2413c9b9803661322aaad25826b62.png"> | Send ( 6 ) gift to anyone from Shop or Wishlist in user profile |
+| Hero | <img src="/assets/gifting/hero.png" href="https://cdn.discordapp.com/badge-icons/77d65b1f210014a11eb1582ee06ab684.png"> | Send ( 10 ) gift to anyone from Shop or Wishlist in user profile |
+| Legend | <img src="/assets/gifting/legend.png" href="https://cdn.discordapp.com/badge-icons/7fe346cfc5da1340087d8759a9e7a395.png"> | Send ( 20 ) gift to anyone from Shop or Wishlist in user profile |
 
 ## Nitro Subscription Tiers  
 
